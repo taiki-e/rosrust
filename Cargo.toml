@@ -15,3 +15,4 @@ members = [
 "rosrust_actionlib" = { path = "rosrust_actionlib" }
 "rosrust_diagnostics" = { path = "rosrust_diagnostics" }
 "examples" = { path = "examples" }
+"xml-rpc" = { git = "https://github.com/taiki-e/xml-rpc-rs.git", branch = "deps" }
